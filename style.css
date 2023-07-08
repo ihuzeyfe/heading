@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+.ilkdiv {
+    background-image: url(/images/colorpallette.jpg);
+    height: 100px;
+}
+
+.birincibutton {
+    background-color: #22577A !important;
+    margin-left: 8px;
+    margin-top: 47px;
+    margin-bottom: 2px;
+    color: bisque !important;
+
+}
+.ikincibutton {
+    background-color: #38A3A5 !important;
+    margin-left: 8px;
+    margin-top: 47px;
+    margin-bottom: 2px;
+    color: bisque !important;
+
+}
+.ucuncubutton {
+    background-color: #57CC99 !important;
+    margin-left: 8px;
+    margin-top: 47px;
+    margin-bottom: 2px;
+    color: #22577A!important;
+
+}
+
+.h1baslik {
+    border-top: #38A3A5 solid 3px;
+    border-right:  #38A3A5 solid 5px;
+    border-radius: 50px;
+    border-bottom: #38A3A5 solid 3px;
+    text-align: center;
+    padding-bottom: 2px;
+}
